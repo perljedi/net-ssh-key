@@ -2,7 +2,7 @@
 
 Net::SSH::Key - Generate SSH keypair
 
-[![Build Status](https://travis-ci.org/perljedi/ne-ssh-key.png?branch=master)](https://travis-ci.org/perljedi/ne-ssh-key)
+[![Build Status](https://travis-ci.org/perljedi/net-ssh-key.png?branch=master)](https://travis-ci.org/perljedi/ne-ssh-key)
 
 # VERSION
 
