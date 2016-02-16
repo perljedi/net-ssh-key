@@ -1,9 +1,12 @@
-use strict;
-use warnings;
 package Net::SSH::Key;
+
+use warnings;
+use strict;
 use Convert::ASN1;
 use Crypt::RSA;
 use MIME::Base64;
+
+# ABSTRACT:  Generate SSH keypair
 
 sub Generate {
     my $class = shift;
